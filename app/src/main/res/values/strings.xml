@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IgGuard</string>
+    <string name="service_desc">Redirige le feed et les Reels d\'Instagram vers les messages.</string>
+</resources>
